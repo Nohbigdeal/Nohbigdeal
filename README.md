@@ -2,10 +2,10 @@
 
 
 - 👀 I’m interested in ...
-Data Analysis and psychology
+Data Analysis, psychology and finance
 
 - 🌱 I’m currently learning ...
-Basic Machine Learning
+Basic Machine Learning and tensorflow
 
 - 💞️ I’m looking to collaborate on ...
 
