@@ -5,9 +5,10 @@
 Data Analysis, psychology and finance
 
 - 🌱 I’m currently learning ...
-Basic Machine Learning and tensorflow
+Operating Data Project, Basic Machine Learning and Python
 
 - 💞️ I’m looking to collaborate on ...
+something small can be handled with less effort : toy project
 
 
 - 📫 How to reach me ...
